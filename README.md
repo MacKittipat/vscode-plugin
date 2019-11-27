@@ -9,3 +9,5 @@ List of useful vs code plugin
 * https://marketplace.visualstudio.com/items?itemName=ms-python.python
 * https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
 * https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
+* https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+* https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
