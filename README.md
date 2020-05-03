@@ -5,6 +5,7 @@ List of useful vs code plugin
 * https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-spring-boot
 * https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr
 * https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard
+* https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug&WT.mc_id=medium-blog-brborges
 * https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 * https://marketplace.visualstudio.com/items?itemName=ms-python.python
 * https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
