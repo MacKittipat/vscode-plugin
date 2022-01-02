@@ -15,3 +15,5 @@ List of useful vs code plugin
 * https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
 * https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 * https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+* https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+* https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
